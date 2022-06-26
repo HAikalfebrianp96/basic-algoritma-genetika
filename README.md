@@ -13,6 +13,6 @@ Genetic Algorithm as a branch of Evolutionary Algorithm is an adaptive method co
 
 **C . BASIC THEORY**
 
-Genetic Algorithm Genetic Algorithm as a branch of the Evolutionary Algorithm is an adaptive method that is commonly used to solve a value search in an optimization problem. Genetic Algorithms can be used to find solutions to problems in the real world. The founder of the basic principle as well as the creator of the Genetic Algorithm is John Holland. With the theory of evolution and genetic theory, the application of the Genetic Algorithm will involve several operators, namely:
+Genetic Algorithm as a branch of the Evolutionary Algorithm is an adaptive method that is commonly used to solve a value search in an optimization problem. Genetic Algorithms can be used to find solutions to problems in the real world. The founder of the basic principle as well as the creator of the Genetic Algorithm is John Holland. With the theory of evolution and genetic theory, the application of the Genetic Algorithm will involve several operators, namely:
 a. Evolution operation which involves the selection process in it. 
 b. Genetic operations involving crossover and mutation operators.
